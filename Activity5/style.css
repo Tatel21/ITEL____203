@@ -1,92 +1,261 @@
-body {
-  background-color: mediumpurple;
-  font-style: oblique;
-  color: white;
+body 
+      {
+        font-family: 'Roboto';
+      }
+      .nav-link
+      {
+        position: relative;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
 
-}
-.signup_form {
-  padding: 35px;
-  background-color: white;
-  color: black;
-  font-family: sans-serif;
-  font-size: 25px;
-  position: absolute;
-  top: 150px;
-  right: 0;
-  border: 3px solid blueviolet;
-  margin-right: 10%;
-  margin-bottom: 30px;
-  
-}
+        color: #0B1118;
 
-.form-group {
-  position: relative;
-  flex: 1 0 0;
-  margin-right: 20px;
-  margin-bottom: 30px;
-  position: relative;
-}
-.cbox {
-  font-size: 20px;
-}
-.form-control {
-  font-size: 20px;
-  margin-left: 25px;
-  object-position: 25%;
-  margin-top: 5px;
-  position: right;
-  margin-bottom: 25px;
-  padding: 10px;
-}
-.list-inline {
-  list-style-type: none;
-  margin-left: 60px;
-}
-.btn-form {
-  width: 150px;
-  height: 55px;
-  padding: 5px;
-  font-size: 20px;
-  margin-bottom: 10px;
-  margin-left: 30px;
-  border: 3px solid blueviolet;
-}
-.btn-form2 {
-  width: 150px;
-  height: 55px;
-  padding: 5px;
-  font-size: 20px;
-  margin-bottom: 10px;
-  border: 3px solid blueviolet;
- }
- .btn-form3 {
-  width: 150px;
-  height: 55px;
-  padding: 5px;
-  font-size: 20px;
-  margin-bottom: 10px;
-  margin-left: 80px;
-  border: 3px solid blueviolet;
- }
-.signup_link {
-  margin-left: 110px;
-  font-size: 15px ;
-}
-.company_name {
-  float: left;
-  margin-top: 275px;
-  margin-left: 175px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 10px 25px;
+        padding: 20px 0px 0px 30px;
+      }
+      .nav-link1
+      {
+        font-size: 20px;
+        margin: 3px 0px 0px 30px;
+        border-radius: 40px;
+        padding: 15px 30px 15px 30px;
+        background-color: black;
+        color: white;
+      }
+      .logo
+      {
+        margin: 5px;
+        position: absolute;
+        padding: 8px;
+      }
+      .jajja_img
+      {
+        margin: 70px 0px 0px 50px;
+        font-size: 200px;
+        float: right;
+        border-radius: 8px;
+      }
+      .shapecircle
+      {
+        position: absolute;
+        margin: 0 0 0 38px;
+        width: 1036px;
+        height: 1036px;
+        left: 827px;
+        top: -116px;
+        opacity: 1;
+        z-index: -20;
+      }
+      .cloud
+      {
+        margin: auto;
+        position: absolute;
+        padding-top: 16px;
+        right: 610px;
+        opacity: 1;
+        z-index: -20;
+      }
+      .Halla_dar
+      {
+        position: static;
+        font-size: 18px;
+      }
+      .Vi_driver
+      {
+        position: absolute;
+        font-weight: bold;
+        font-size: 72px;
+        letter-spacing: -1px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+      }
+      .container-intro
+      {
+        margin: 300px 0px 0px 10px;
+      }
+      .peach
+      {
+        background: rgba(244, 234, 228, 0.4);
+        position: absolute;
+        width: 1500px;
+        height: 788px;
+        left: 0px;
+        top: 976px;
+      }
+      .second-part
+      {
+        margin-top: 80px;
+      }
+      .Med-hjalp
+      {
+        position: absolute;
+        font-weight: bold;
+        font-size: 72px;
+        letter-spacing: -1px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+      }
+      .card
+      {
+        margin: 200px 0 0 0;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 48px;
+        position: static;
+        width: 394.67px;
+        height: 496px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 8px;
+      }
+      .card-title
+      {
+        position: static;
+        font-size: 48px;
+        font-weight: bold;
+      }
+      .card-text1
+      {
+        color: #0B1118;
+        font-size: 20px;
+        line-height: 28px;
+      }
+      a:link
+      {
+        text-decoration: none;
+      }
+      .arrow{
+            list-style: none;
+        }
+      .text2-decoration
+      {
+        color: black;
+      }
+      .card-text2
+      {
+        padding: 0 50px 0 0;
+      }
+      .pink
+      {
+        position: absolute;
+        width: 1500px;
+        height: 364px;
+        left: 0px;
+        top: 1764px;
+        background-color: #FC0E52;
+      }
+      .text4
+      {
+        padding: 70px 0 0 25px;
+        position: absolute;
+        color: white;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 60px;
+      }
+      .first
+      {
+        width: 1500px;
+        height: 788px;
+      }  
+      .pink-link
+      {
+        position: static;
+        padding-top: 250px;
+        color: black;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 28px;
+        text-decoration: none;
+        color: white;
+      }
+      .Sahar
+      {
+        color: white;
+        padding-left: 20px;
+      }
+      .site-logo
+      { 
+        margin: 100px 20px;
+        position: absolute;
+        width: 1500px;
+        height: 848px;
+        left: 0px;
+        top: 2128px;
+      }
+      .mid-bottom
+      {
+        
+        padding: 50px 0 0 10px;
+      }
+      .text5
+      {
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 72px;
+      }
+      .img
+      {
+        padding: 20px 20px 20px 20px;
+        float: left;
+        width:  auto;
+        height: auto;
+        object-fit: scale-down;
+      }
+      .Vax
+      {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin: 2500px 0px 0 0;
 
-}
-h1 {
-  font-size: 70px;
-}
-h3 {
-  font-size: 30px;
-}
-hr.line1 {
-  color: white;
-  width: 75%;
-  text-align: left;
-  margin-left: 0px;
-}
+      position: static;
+      width: 1500px;
+      height: auto;
+      left: 720px;
+      top: 0px;
+
+      background: rgba(244, 234, 228, 0.4);
+      }
+      .h2
+      {
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 72px;
+
+
+        letter-spacing: -1px;
+      }
+      .paragraph
+      {
+        padding-top: 25px;
+      }
+      .container-more
+      {
+        position: absolute;
+        padding-left: 50px;
+      }
+      .text7
+      {
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 72px;
+      }
+      .nav-link{
+        margin: -2px 0px 1px 30px;
+      }
+      .nav-link2
+      {
+        font-size: 20px;
+        border-radius: 40px;
+        padding: 0px 15px 0px 15px;
+        background-color: #FC0E52;
+        color: white;
+      }
