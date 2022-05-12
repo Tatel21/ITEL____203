@@ -5,48 +5,48 @@ body
       .nav-link
       {
         position: relative;
-        font-weight: 300;
-        font-size: 25px;
-        line-height: 25px;
+        font-weight: 250;
+        font-size: 40px;
+        line-height: 28px;
 
         color: #0B1118;
 
         flex: none;
         order: 0;
         flex-grow: 0;
-        margin: 8px 20px;
+        margin: 10px 25px;
         padding: 20px 0px 0px 30px;
       }
       .nav-link1
       {
-        font-size: 25px;
+        font-size: 40px;
         margin: 3px 0px 0px 30px;
-        border-radius: 30px;
+        border-radius: 40px;
         padding: 15px 30px 15px 30px;
-        background-color: blue;
-        color: white;
+        background-color: white;
+        color: black;
       }
       .logo
       {
         margin: 10px;
         position: absolute;
-        padding: 8px;
+        padding: 20px;
       }
       .jajja_img
       {
-        margin: 60px 0px 0px 50px;
-        font-size: 180px;
+        margin: 70px 0px 0px 50px;
+        font-size: 200px;
         float: right;
-        border-radius: 8px;
+        border-radius: 10px;
       }
       .shapecircle
       {
         position: absolute;
         margin: 0 0 0 38px;
-        width: 1040px;
-        height: 1040x;
-        left: 820px;
-        top: -110px;
+        width: 1036px;
+        height: 1036px;
+        left: 827px;
+        top: -116px;
         opacity: 1;
         z-index: -20;
       }
@@ -55,48 +55,48 @@ body
         margin: auto;
         position: absolute;
         padding-top: 16px;
-        right: 600px;
+        right: 610px;
         opacity: 1;
         z-index: -20;
       }
       .Halla_dar
       {
         position: static;
-        font-size: 20px;
+        font-size: 18px;
       }
       .Vi_driver
       {
         position: absolute;
         font-weight: bold;
-        font-size: 70px;
-        letter-spacing: -0.5px;
+        font-size: 72px;
+        letter-spacing: -1px;
         flex: none;
         order: 1;
         flex-grow: 0;
       }
       .container-intro
       {
-        margin: 290px 0px 0px 10px;
+        margin: 300px 0px 0px 10px;
       }
       .peach
       {
         background: rgba(244, 234, 228, 0.4);
         position: absolute;
-        width: 1400px;
-        height: 800px;
+        width: 1500px;
+        height: 788px;
         left: 0px;
-        top: 980px;
+        top: 976px;
       }
       .second-part
       {
-        margin-top: 80px;
+        margin-top: 70px;
       }
       .Med-hjalp
       {
         position: absolute;
         font-weight: bold;
         font-size: 70px;
-        letter-spacing: -0.5px;
+        letter-spacing: -1px;
         flex: none;
         order: 1;
         flex-grow: 0;
@@ -109,8 +109,8 @@ body
         align-items: flex-start;
         padding: 48px;
         position: static;
-        width: 340.67px;
-        height: 500px;
+        width: 394.67px;
+        height: 496px;
         background: #FFFFFF;
         box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
         border-radius: 8px;
@@ -118,14 +118,14 @@ body
       .card-title
       {
         position: static;
-        font-size: 45px;
+        font-size: 40px;
         font-weight: bold;
       }
       .card-text1
       {
         color: #0B1118;
-        font-size: 25px;
-        line-height: 25px;
+        font-size: 30px;
+        line-height: 28px;
       }
       a:link
       {
@@ -136,7 +136,7 @@ body
         }
       .text2-decoration
       {
-        color: gray;
+        color: black;
       }
       .card-text2
       {
@@ -146,9 +146,9 @@ body
       {
         position: absolute;
         width: 1500px;
-        height: 350px;
+        height: 364px;
         left: 0px;
-        top: 1750px;
+        top: 1764px;
         background-color: #FC0E52;
       }
       .text4
@@ -157,7 +157,7 @@ body
         position: absolute;
         color: white;
         font-weight: 700;
-        font-size: 60px;
+        font-size: 65px;
         line-height: 60px;
       }
       .first
@@ -171,7 +171,7 @@ body
         padding-top: 250px;
         color: black;
         font-weight: 500;
-        font-size: 18px;
+        font-size: 20px;
         line-height: 28px;
         text-decoration: none;
         color: white;
@@ -179,14 +179,14 @@ body
       .Sahar
       {
         color: white;
-        padding-left: 18px;
+        padding-left: 30px;
       }
       .site-logo
       { 
-        margin: 90px 15px;
+        margin: 100px 20px;
         position: absolute;
-        width: 1400px;
-        height: 840px;
+        width: 1500px;
+        height: 848px;
         left: 0px;
         top: 2128px;
       }
@@ -197,9 +197,9 @@ body
       }
       .text5
       {
-        font-weight: 690;
-        font-size: 70px;
-        line-height: 70px;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 72px;
       }
       .img
       {
@@ -217,18 +217,18 @@ body
       margin: 2500px 0px 0 0;
 
       position: static;
-      width: 1490px;
+      width: 1500px;
       height: auto;
-      left: 700px;
+      left: 720px;
       top: 0px;
 
-      background: rgba(240, 230, 225, 0.4);
+      background: rgba(244, 234, 228, 0.4);
       }
       .h2
       {
-        font-weight: 690;
-        font-size: 70px;
-        line-height: 70px;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 72px;
 
 
         letter-spacing: -1px;
@@ -240,20 +240,20 @@ body
       .container-more
       {
         position: absolute;
-        padding-left: 48px;
+        padding-left: 50px;
       }
       .text7
       {
-        font-weight: 690;
-        font-size: 70px;
-        line-height: 70px;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 72px;
       }
       .nav-link{
         margin: -2px 0px 1px 30px;
       }
       .nav-link2
       {
-        font-size: 20px;
+        font-size: 30px;
         border-radius: 40px;
         padding: 0px 15px 0px 15px;
         background-color: #FC0E52;
