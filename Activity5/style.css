@@ -5,37 +5,37 @@ body
       .nav-link
       {
         position: relative;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 28px;
+        font-weight: 300;
+        font-size: 25px;
+        line-height: 25px;
 
         color: #0B1118;
 
         flex: none;
         order: 0;
         flex-grow: 0;
-        margin: 10px 25px;
+        margin: 8px 20px;
         padding: 20px 0px 0px 30px;
       }
       .nav-link1
       {
-        font-size: 20px;
+        font-size: 25px;
         margin: 3px 0px 0px 30px;
-        border-radius: 40px;
+        border-radius: 30px;
         padding: 15px 30px 15px 30px;
-        background-color: black;
+        background-color: blue;
         color: white;
       }
       .logo
       {
-        margin: 5px;
+        margin: 10px;
         position: absolute;
         padding: 8px;
       }
       .jajja_img
       {
-        margin: 70px 0px 0px 50px;
-        font-size: 200px;
+        margin: 60px 0px 0px 50px;
+        font-size: 180px;
         float: right;
         border-radius: 8px;
       }
@@ -43,10 +43,10 @@ body
       {
         position: absolute;
         margin: 0 0 0 38px;
-        width: 1036px;
-        height: 1036px;
-        left: 827px;
-        top: -116px;
+        width: 1040px;
+        height: 1040x;
+        left: 820px;
+        top: -110px;
         opacity: 1;
         z-index: -20;
       }
@@ -55,37 +55,37 @@ body
         margin: auto;
         position: absolute;
         padding-top: 16px;
-        right: 610px;
+        right: 600px;
         opacity: 1;
         z-index: -20;
       }
       .Halla_dar
       {
         position: static;
-        font-size: 18px;
+        font-size: 20px;
       }
       .Vi_driver
       {
         position: absolute;
         font-weight: bold;
-        font-size: 72px;
-        letter-spacing: -1px;
+        font-size: 70px;
+        letter-spacing: -0.5px;
         flex: none;
         order: 1;
         flex-grow: 0;
       }
       .container-intro
       {
-        margin: 300px 0px 0px 10px;
+        margin: 290px 0px 0px 10px;
       }
       .peach
       {
         background: rgba(244, 234, 228, 0.4);
         position: absolute;
-        width: 1500px;
-        height: 788px;
+        width: 1400px;
+        height: 800px;
         left: 0px;
-        top: 976px;
+        top: 980px;
       }
       .second-part
       {
@@ -95,8 +95,8 @@ body
       {
         position: absolute;
         font-weight: bold;
-        font-size: 72px;
-        letter-spacing: -1px;
+        font-size: 70px;
+        letter-spacing: -0.5px;
         flex: none;
         order: 1;
         flex-grow: 0;
@@ -109,8 +109,8 @@ body
         align-items: flex-start;
         padding: 48px;
         position: static;
-        width: 394.67px;
-        height: 496px;
+        width: 340.67px;
+        height: 500px;
         background: #FFFFFF;
         box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
         border-radius: 8px;
@@ -118,14 +118,14 @@ body
       .card-title
       {
         position: static;
-        font-size: 48px;
+        font-size: 45px;
         font-weight: bold;
       }
       .card-text1
       {
         color: #0B1118;
-        font-size: 20px;
-        line-height: 28px;
+        font-size: 25px;
+        line-height: 25px;
       }
       a:link
       {
@@ -136,7 +136,7 @@ body
         }
       .text2-decoration
       {
-        color: black;
+        color: gray;
       }
       .card-text2
       {
@@ -146,9 +146,9 @@ body
       {
         position: absolute;
         width: 1500px;
-        height: 364px;
+        height: 350px;
         left: 0px;
-        top: 1764px;
+        top: 1750px;
         background-color: #FC0E52;
       }
       .text4
@@ -179,14 +179,14 @@ body
       .Sahar
       {
         color: white;
-        padding-left: 20px;
+        padding-left: 18px;
       }
       .site-logo
       { 
-        margin: 100px 20px;
+        margin: 90px 15px;
         position: absolute;
-        width: 1500px;
-        height: 848px;
+        width: 1400px;
+        height: 840px;
         left: 0px;
         top: 2128px;
       }
@@ -197,9 +197,9 @@ body
       }
       .text5
       {
-        font-weight: 700;
-        font-size: 72px;
-        line-height: 72px;
+        font-weight: 690;
+        font-size: 70px;
+        line-height: 70px;
       }
       .img
       {
@@ -217,18 +217,18 @@ body
       margin: 2500px 0px 0 0;
 
       position: static;
-      width: 1500px;
+      width: 1490px;
       height: auto;
-      left: 720px;
+      left: 700px;
       top: 0px;
 
-      background: rgba(244, 234, 228, 0.4);
+      background: rgba(240, 230, 225, 0.4);
       }
       .h2
       {
-        font-weight: 700;
-        font-size: 72px;
-        line-height: 72px;
+        font-weight: 690;
+        font-size: 70px;
+        line-height: 70px;
 
 
         letter-spacing: -1px;
@@ -240,13 +240,13 @@ body
       .container-more
       {
         position: absolute;
-        padding-left: 50px;
+        padding-left: 48px;
       }
       .text7
       {
-        font-weight: 700;
-        font-size: 72px;
-        line-height: 72px;
+        font-weight: 690;
+        font-size: 70px;
+        line-height: 70px;
       }
       .nav-link{
         margin: -2px 0px 1px 30px;
